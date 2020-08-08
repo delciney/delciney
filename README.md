@@ -7,7 +7,7 @@
     alt="LinkedIn"
     target="blank"
   >
-    <img src="https://www.flaticon.com/premium-icon/icons/svg/739/739270.svg" width="8%" />
+    <img src="https://image.flaticon.com/icons/png/512/739/739219.png" width="8%" />
   </a>
   <a
     href="dl.oliveira@unesp.br" 
