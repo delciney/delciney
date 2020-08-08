@@ -7,20 +7,20 @@
     alt="LinkedIn"
     target="blank"
   >
-    <img src="https://image.flaticon.com/icons/png/512/739/739219.png" width="8%" />
+    <img src="https://image.flaticon.com/icons/svg/725/725397.svg" width="8%" />
   </a>
   <a
     href="dl.oliveira@unesp.br" 
     alt="email"
     target="blank"
   >
-     <img src="https://image.flaticon.com/icons/png/512/3191/3191980.png" width="8%" />
+     <img src="https://image.flaticon.com/icons/svg/725/725354.svg" width="8%" />
   <a
     href="https://web.whatsapp.com/send?phone=+5516992346360" 
     alt="WhatsApp"
     target="blank"
   >
-    <img src="https://image.flaticon.com/icons/png/512/1944/1944502.png" width="8%"  />
+    <img src="https://image.flaticon.com/icons/svg/1836/1836139.svg" width="8%"  />
   </a>
 </p>
 <p>
