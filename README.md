@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/delciney/delciney/blob/master/banner.png?raw=true" width="100%"
+  <img src="https://github.com/delciney/delciney/blob/master/banner.png?raw=true" width="60%"
   alt="Delciney" />
   <br>
   <a
