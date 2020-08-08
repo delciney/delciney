@@ -13,6 +13,7 @@
     href="dl.oliveira@unesp.br" 
     alt="email"
     target="blank"
+    style="margin: 2rem;"
   >
      <img src="https://image.flaticon.com/icons/svg/725/725354.svg" width="8%" />
   <a
