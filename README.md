@@ -7,7 +7,7 @@
 
 ## Olá, mundo! 
 
-Técnica em Informática com ênfase em tecnologia de informação pela Remington e graduando em Sistemas de Informação pela Faculdade São Luís
+Técnico em Informática com ênfase em tecnologia de informação pela Remington e graduando em Sistemas de Informação pela Faculdade São Luís
 
 - 💻 Atualmente: Desenvolvedor full-stack na **Brunelli Tecnologia**
 - 💙 Gosto muito: Desenvolvimento mobile e web tanto front-end quanto back-end
