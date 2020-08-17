@@ -10,5 +10,5 @@
 Técnica em Informática com ênfase em tecnologia de informação pela Remington e graduando em Sistemas de Informação pela Faculdade São Luís
 
 - 💻 Atualmente: Desenvolvedor full-stack na **Brunelli Tecnologia**
-- 💙 Curto muito: Desenvolvimento mobile e web tanto front-end quanto back-end
+- 💙 Gosto muito: Desenvolvimento mobile e web tanto front-end quanto back-end
 - 📖 Estudando: PHP, Javascript, Typescript, Node.js, React.js, React Native e electron
