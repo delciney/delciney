@@ -7,8 +7,8 @@
 
 ## Olá, mundo! 
 
-Técnico em Informática com ênfase em tecnologia de informação pela Remington e graduando em Sistemas de Informação pela Faculdade São Luís
+Formado em Sistemas de Informação pela Faculdade São Luís
 
 - 💻 Atualmente: Desenvolvedor full-stack na **SMARAPD**
-- 💙 Gosto muito: Desenvolvimento mobile e web tanto front-end quanto back-end
-- 📖 Estudando: PHP, Javascript, Typescript, Node.js, React.js, React Native e electron
+- 💙 Gosto muito: Desenvolvimento web tanto front-end quanto back-end
+- 📖 Estudando: ASP.NET, Javascript, Typescript, Node.js, React.js, SCRUM
