@@ -9,6 +9,6 @@
 
 Formado em Sistemas de Informação pela Faculdade São Luís
 
-- 💻 Atualmente: Desenvolvedor full-stack na **SMARAPD**
+- 💻 Atualmente: Analista de Sistemas na **TOTVS**
 - 💙 Gosto muito: Desenvolvimento web tanto front-end quanto back-end
-- 📖 Estudando: ASP.NET, Javascript, Typescript, Node.js, React.js, SCRUM
+- 📖 Estudando: ASP.NET, Javascript, Typescript, Angular, SCRUM
