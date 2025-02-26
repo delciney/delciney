@@ -5,6 +5,6 @@
 
 Formado em Sistemas de Informação pela Faculdade São Luís
 
-- 💻 Atualmente: Desenvolvedor pleno na **Cyncly**
+- 💻 Atualmente: Desenvolvedor pleno na **CSU**
 - 💙 Gosto muito: Desenvolvimento web tanto front-end quanto back-end
 - 📖 Estudando: DDD, BDD, ASP.NET, CQRS, Typescript, Angular, SCRUM.
